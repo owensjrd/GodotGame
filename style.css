@@ -5,3 +5,11 @@ body {
 	background-color: darkorange;
 	background-image: url("pattern.png");
 }
+
+
+section {
+	background-color: crimson;
+	width: 60%;
+	margin: auto;
+	height: 600px;
+}
